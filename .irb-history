@@ -1,0 +1,50 @@
+reintall C:\deapp\EriBank.apk
+reintall EriBank.apk
+quit
+start_test_server_in_background
+query("*")\
+query("*")
+query ("*")
+query ("id")
+query (*"id")
+query ("id")
+query (id)
+query("button").count
+query("button")
+query("button").count
+query("class")
+query("Class")
+query("contentDescription")
+view: 'MyClass'
+view:'MyClass'
+query("button").count
+query("button").count
+query("button")
+query("button")
+query("contentDescription")
+query("contentDescription")
+query("button")
+query("button").count
+query("contentDescription")
+query("button").count
+buttton marked:'Login'
+query("buttton marked:'Login'")
+query("buttton marked:'Login'")
+query(tap("buttton marked:'Login'"))
+query(tap-marked("buttton marked:'Login'"))
+query("button").count
+query("button")[0]
+label "button"
+label 
+android.widget,button
+touch ("id":'loginButton')
+touch ("id":loginButton)
+touch (id:loginButton)
+touch(id:loginButton)
+keyboard_enter_test "ruk"\
+keyboard_enter_test "ruk"
+keyboard_enter_test"ruk"
+quit
+start_test_server_in_background
+query("*")
+exit
